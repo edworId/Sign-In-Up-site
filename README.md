@@ -6,21 +6,20 @@ My first web project using HTML5 and CSS3, based in a YouTube video to help begg
 <h1 align="center"> Login System 🤝🏽 </h1>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIDO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=COMPLETE&color=GREEN&style=for-the-badge"/>
 </p>
 
-xxxxxxXXXXXXXXX
+This simple project help me to understand how can i use CSS to configure the style of website. It's a powerfull language in wihch is usefull for new projects in my research line. The progress of tecnology can contribute between many areas, including social robots like chatbots for a new store website.
 
 <h1 align="center">  </h1>
 <p align="center">
 <img width="800", title="Login-Web", img src="https://github.com/edworId/Sign-In-Up-site/blob/main/site.png"/>
 </p>
 
-<h6 align="center">This model of site was developed by Marzuel channel on YouTube. Then, i use that to learn how to create a website with HTML and CSS. </h6>
+<h6 align="center">This model of site was developed by Markzuel channel on YouTube. Then, i use that to learn how to create a website with HTML and CSS. </h6>
 
 <h1 align="center">  </h1>
 
-xxxxxxXXXXXXXXXXXXXX
 
 CLONE: git clone git@github.com:edworId/Sign-In-Up-site.git
 
