@@ -13,7 +13,7 @@ xxxxxxXXXXXXXXX
 
 <h1 align="center">  </h1>
 <p align="center">
-<img width="600", title="Login-Web", img src="https://github.com/edworId/Sign-In-Up-site/blob/main/site.png"/>
+<img width="800", title="Login-Web", img src="https://github.com/edworId/Sign-In-Up-site/blob/main/site.png"/>
 </p>
 
 <h6 align="center">This model of site was developed by Marzuel channel on YouTube. Then, i use that to learn how to create a website with HTML and CSS. </h6>
